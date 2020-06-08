@@ -1,0 +1,79 @@
+.nav{
+	height:50px;
+	background:purple;
+}
+.nav div{
+	display:inline-block;
+	position:absolute;
+	left:0;
+	padding:15px;
+	font-size:22px;
+	color:white;
+}
+.nav ul{
+	position:absolute;
+	right:8px;
+}
+.nav ul li{
+	display:inline-block;
+}
+.nav ul li a{
+	color:white;
+	padding:5px;
+}
+.home{
+	background:url("https://media.istockphoto.com/vectors/creative-boutique-logo-design-vector-id1148638242");
+	background-size:cover;
+	height:100vh;
+	background-position:center;
+}
+.about-content{
+	margin:100px auto 0 auto;
+	width:450px;
+}
+.about-content h1{
+	text-align:center;
+	color:purple;
+	font-family:sans-serif;
+
+}
+.about-content p{
+	text-align:justify;
+	font-size: 40px;
+	color:red;
+}
+.services-content{
+	margin:80px auto 0 auto;
+	text-align:center;
+}
+.services-content .card-container ul{
+	padding:0;
+}
+.services-content .card-container ul li{
+	list-style:none;
+	display:inline-block;
+	margin:20px;
+	width:300px;
+}
+.services-content .card-container ul li p{
+	color:yellow;
+}
+.services-content .card-container ul li p1{
+	color:blue;
+}
+.services-content h1{
+	font-family:sans-serif;
+	color:purple;
+}
+.contact-content h1{
+	margin:80px auto 0 auto;
+	text-align:center;
+	color:purple;
+}
+.address-holder{
+	color:black;
+	text-align:center;
+}
+
+
+
